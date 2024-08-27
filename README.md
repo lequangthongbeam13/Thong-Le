@@ -5,7 +5,7 @@
 - :writing_hand: I am currently learning IT at LAB
 - :point_right: How to reach me:
      + Email: lequangthong1996@gmail.com
-     + Linkedin: linkedin.com/in/quang-thong-le-28b258321
+     + Linkedin: [click here](linkedin.com/in/quang-thong-le-28b258321)
 <!--
    
 -->

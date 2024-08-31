@@ -6,4 +6,6 @@ I guess they will feel a bit disappointed when I say that the idea is not suitab
 But anyway, I also learned a lot when working in groups, how to communicate effectively,
 how to convey ideas into words and how to say "no" to inappropriate ideas. .
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+Here is our Project
+![IMG_0499](https://github.com/user-attachments/assets/80d40f63-185b-488e-a2ab-7a2d2b4b6b47)
+![IMG_0500](https://github.com/user-attachments/assets/47e4ab43-1024-4626-82d5-390506b7ca6d)
